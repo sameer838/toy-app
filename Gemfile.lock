@@ -195,4 +195,7 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 BUNDLED WITH
+1.17.1
+
+BUNDLED WITH
    1.17.1
